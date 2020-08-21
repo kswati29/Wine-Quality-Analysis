@@ -1,5 +1,5 @@
 # Wine-Quality-Analysis
-Analytics on Quality Assessment through physio-chemical properties of Portuguese Wine
+Analytics on Quality Assessment through feature selection of physio-chemical properties of Portuguese Wine
 
 ## Introduction
 This notebook evaluates input variables and focuses to use Classification Tree to analyse Portuguese wine data and determine important predictors.  Further, Stepwise Linear Regression approach through Microsoft excel is employed to build a model to predict the quality of wine.
