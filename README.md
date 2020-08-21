@@ -9,10 +9,10 @@ Source dataset: https://www.kaggle.com/abhishekmamidi/introduction-to-regression
 Oenology is the science and study of wine and winemaking. The analysis uses Portuguese wine, Vinho Verde (named after the same region) which is considered as a young wine because it is consumed fresh, after harvesting for merely 3-6 months. Broadly speaking, among different variants of wines two are worldwide popular by their names: Red wine and White wine. 
 The 11 physiochemical properties predict the quality based on sensory results given by Sommeliers scored between 0-10. 
 
-### The Report explains the following:
+#### The Report explains the following:
 Understanding of the data by explaining wine properties generically speaking and how they relate with the taste of the final product. Further, intuitive relations and analysis results are explained.
 
-### Python Notebook focuses on:
+#### Python Notebook focuses on:
 Feature selection through Classification Tree and includes Preprocessing, Train/test split , hyperparameter tuning and feature selection to compare the results of Excel Stepwise Regression Model
 
 ## Result
